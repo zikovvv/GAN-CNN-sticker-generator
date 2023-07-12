@@ -11,7 +11,7 @@ import random
 from matplotlib import pyplot as plt
 import cv2
 
-TOKEN = "1861079720:AAH4TSijFTzKDr_tuIKX20Yr2v6xy-NU8mI"
+TOKEN = ""
 
 def assure_folder_exists(folder, root):
     full_path = os.path.join(root, folder)
